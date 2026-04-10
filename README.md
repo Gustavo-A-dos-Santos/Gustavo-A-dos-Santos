@@ -11,7 +11,7 @@
 
 🟢 Status do Sistema
 <div align="center">
-  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juli-Gabriele&theme=chartreuse_dark" />
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gustavo - Anthony&theme=chartreuse_dark" />
   <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juli-Gabriele&theme=chartreuse_dark" />
 </div>
 
