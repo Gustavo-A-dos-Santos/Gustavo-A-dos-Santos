@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header&text=Gustavo%20Antony&fontSize=50&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header&text=Gustavo%20Anthony&fontSize=50&animation=fadeIn"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff002&size=35&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Gustavo+Antony!;Desenvolvedoror+Full+Stack+💻;Seja+Bem+Vindo!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff002&size=35&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Gustavo+Anthony!;Desenvolvedoror+Full+Stack+💻;Seja+Bem+Vindo!" />
 </h1>
 
 <h3 align="center">
