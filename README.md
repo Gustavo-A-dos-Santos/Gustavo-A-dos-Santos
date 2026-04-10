@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header&text=Gustavo%20Antony&fontSize=50&animation=fadeIn"/>
 
-<!--
-**Gustavo-A-dos-Santos/Gustavo-A-dos-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff002&size=35&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Gustavo+Antony!;Desenvolvedoror+Full+Stack+💻;Seja+Bem+Vindo!" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟢 Status do Sistema
+<div align="center">
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juli-Gabriele&theme=chartreuse_dark" />
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juli-Gabriele&theme=chartreuse_dark" />
+</div>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+🛠️ Tecnologias & Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,git,github,mysql,vscode&theme=dark" />
+</div>
+
+<br>
+
+
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
+</div>
