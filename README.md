@@ -5,6 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00ff002&size=35&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Gustavo+Anthony!;Desenvolvedoror+Full+Stack+💻;Seja+Bem+Vindo!" />
 </h1>
 
+<div align="center">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-A-dos-Santos&layout=pie&theme=chartreuse_dark"/>
+  </div>
+
+  <h3 align="center">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  </h3>  
+
+</div>
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
