@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header&text=Gustavo%20Anthony&fontSize=50&animation=fadeIn"/>
 
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00ff002&size=35&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Gustavo+Anthony!;Desenvolvedoror+Full+Stack+💻;Seja+Bem+Vindo!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Gustavo+Anthony!;Desenvolvedor+Full+Stack+💻;Seja+Bem+Vindo!" />
   </h1>
 
   <h3 align="center">
@@ -14,9 +14,9 @@
     <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavo-A-dos-Santos&theme=chartreuse_dark" />
   </div>
 
-  <!-- 🔥 GRÁFICO DE LINGUAGENS ADICIONADO AQUI -->
+  <!-- 🔥 GRÁFICO DE LINGUAGENS (VERSÃO ESTÁVEL) -->
   <div align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-A-dos-Santos&layout=pie&theme=chartreuse_dark"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-A-dos-Santos&layout=compact&theme=chartreuse_dark"/>
   </div>
 
   <h3 align="center">
